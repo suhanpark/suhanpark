@@ -32,3 +32,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanpark&" alt="suhanpark" /></p>
 
+![snake gif](https://github.com/suhanpark/suhanpark/blob/output/github-contribution-grid-snake.gif)
