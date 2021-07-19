@@ -4,23 +4,35 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suhanpark&label=Profile%20views&color=0e75b6&style=flat" alt="suhanpark" /> </p>
 
 
-- 🔭 I’m currently working on **Sleepy face detection AI**
+- 🔭 I’m currently working on **Sleepy face detection AI** 
 
-- 🌱 I’m currently learning **ML/DL**
+- 🌱 I’m currently learning **ML/DL** 🤖
 
 - 👨‍💻 All of my projects are available at [https://github.com/suhanpark](https://github.com/suhanpark)
+
+- 🏠 My website is [suhanpark.com](www.suhanpark.com)
 
 - 💬 Ask me about **anything that I can answer**
 
 - 📫 How to reach me **simon7233@gmail.com**
 
-- ⚡ Fun fact **I love hedgehogs**
+- 📄 Know about my experiences [https://www.linkedin.com/in/suhan-park-b4a72413a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzJUI%2FOXXRgevDFNL%2FLpEEA%3D%3D](https://www.linkedin.com/in/suhan-park-b4a72413a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzJUI%2FOXXRgevDFNL%2FLpEEA%3D%3D)
+
+- ⚡ Fun fact **I love hedgehogs** 🦔
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://codepen.io/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="suhanpark" height="30" width="40" /></a>
 <a href="https://dev.to/suhanpark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="suhanpark" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhanpark" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11940958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11940958" height="30" width="40" /></a>
+<a href="https://codesandbox.com/suhanpark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="suhanpark" height="30" width="40" /></a>
+<a href="https://kaggle.com/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suhanpark" height="30" width="40" /></a>
 <a href="https://instagram.com/suhanpark_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhanpark_01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suhanpark" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhanpark" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@suhanaprk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@suhanaprk" height="30" width="40" /></a>
+<a href="https://discord.gg/Suhan Park/박수한#9416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Suhan Park/박수한#9416" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
