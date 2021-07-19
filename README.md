@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suhanpark&label=Profile%20views&color=0e75b6&style=flat" alt="suhanpark" /> </p>
 
+<summary>BIO</summary>
 
 - 🔭 I’m currently working on **Sleepy face detection AI** 
 
