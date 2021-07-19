@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **simon7233@gmail.com**
 
-- 📄 Know about my experiences [LinkedIN](https://www.linkedin.com/in/suhan-park-b4a72413a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzJUI%2FOXXRgevDFNL%2FLpEEA%3D%3D)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/suhan-park-b4a72413a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzJUI%2FOXXRgevDFNL%2FLpEEA%3D%3D)
 
 - ⚡ Fun fact **I love hedgehogs** 🦔
 
