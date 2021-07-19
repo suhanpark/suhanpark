@@ -6,7 +6,7 @@
 <details open>
 <summary>BIO</summary>
 
-- 🔭 I’m currently working on **Sleepy face detection AI** 
+- 🔭 I’m currently working on **expanding my knowlege in CS** 
 
 - 🌱 I’m currently learning **ML/DL** 🤖
 
