@@ -40,7 +40,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanpark&show_icons=true&locale=en&layout=compact" alt="suhanpark" /></p>
 
-![Suhan's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+![Suhan's github stats](https://github-readme-stats.vercel.app/api?username=suhanpark&show_icons=true&hide_border=true)
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanpark&" alt="suhanpark" /></p>
 
