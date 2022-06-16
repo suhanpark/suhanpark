@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gi](https://tenor.com/bKQSx.gif)" width="2px"> I'm Suhan Park</h1>
+<h1 align="center">Hi <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gi](https://tenor.com/bKQSx.gif)" width="10px"> I'm Suhan Park</h1>
 <h3 align="center">AI enthusiast, Korean, student, and challenger</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suhanpark&label=Profile%20views&color=0e75b6&style=flat" alt="suhanpark" /> </p>
