@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **expanding my knowlege in CS** 
 
-- 🌱 I’m currently learning **SWE and ML/DL** 🤖
+- 🌱 I’m currently learning **Backend SWE and ML/DL** 🤖
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/suhanpark)
 
