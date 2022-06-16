@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://tenor.com/bKQSx.gif" width="100px"> I'm Suhan Park</h1>
 <h3 align="center">AI enthusiast, Korean, student, and challenger</h3>
-
+<div class="tenor-gif-embed" data-postid="23520343" data-share-method="host" data-aspect-ratio="1.02564" data-width="100%"><a href="https://tenor.com/view/hi-gif-23520343">Hi Sticker</a>from <a href="https://tenor.com/search/hi-stickers">Hi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suhanpark&label=Profile%20views&color=0e75b6&style=flat" alt="suhanpark" /> </p>
 
 <details open>
