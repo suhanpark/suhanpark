@@ -2,7 +2,7 @@
 <h3 align="center">AI enthusiast, Korean, student, and challenger</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suhanpark&label=Profile%20views&color=0e75b6&style=flat" alt="suhanpark" /> </p>
-<p> <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> <img src="https://img.shields.io/badge/Focus-Computer%20Vision-yellow" />
+<p align="center"> <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> <img src="https://img.shields.io/badge/Focus-Computer%20Vision-yellow" />
 <img src="https://img.shields.io/badge/Focus-Deep%20Learning-red" /></p>
 
 <details open>
