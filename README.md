@@ -6,7 +6,7 @@
 <details open>
 <summary>BIO</summary>
 
-- 🔭 I’m currently working on **expanding my knowlege in CS** 
+- 🔭 I’m currently working on **expanding my knowlege in CS** @ Michigan State University
 
 - 🌱 I’m currently learning **CV/ML/DL** 🤖
 
