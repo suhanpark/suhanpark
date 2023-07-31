@@ -97,6 +97,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhanpark&show_icons=true&hide_border=true" alt="animated" />
 </p>
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Activity">
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanpark&" alt="suhanpark" /></p>
 
