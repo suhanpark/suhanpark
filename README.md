@@ -28,17 +28,9 @@
 <summary>Contact</summary>
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://codepen.io/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://dev.to/suhanpark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11940958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11940958" height="30" width="40" /></a>
-<a href="https://codesandbox.com/suhanpark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="suhanpark" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suhanpark01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhanpark01" height="30" width="40" /></a>
 <a href="https://kaggle.com/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://instagram.com/suhanpark_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhanpark_01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suhanpark" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@suhanaprk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@suhanaprk" height="30" width="40" /></a>
-<a href="https://discord.gg/Suhan Park/박수한#9416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Suhan Park/박수한#9416" height="30" width="40" /></a>
 </p>
 </details>
 
