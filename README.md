@@ -100,11 +100,11 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanpark&" alt="suhanpark" /></p>
 
-<h3 align="center">Feeding the snake with my contribution graph</h3>
-
    ![snake gif](https://github.com/suhanpark/suhanpark/blob/output/github-contribution-grid-snake.gif)
 </details>
 
+<p align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{suhanpark}"/>
 </a>
+</p>
