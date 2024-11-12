@@ -6,7 +6,7 @@
 <details open>
 <summary>BIO</summary>
 
-- 🔭 Computer Science @ Michigan State University
+- 🔭 Computer Science @ Michigan State University 2023
 
 - 🌱 I’m currently learning **CV/ML/DL** 🤖
 
@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **anything that I can answer**
 
-- 📫 How to reach me **simon7233@gmail.com**
+- 📫 How to reach me **simon7233 at gmail dot com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/suhan-park-b4a72413a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzJUI%2FOXXRgevDFNL%2FLpEEA%3D%3D)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/suhanpark01)
 
 - ⚡ Fun fact **I love hedgehogs** 🦔
 
@@ -89,3 +89,7 @@
 
    ![snake gif](https://github.com/suhanpark/suhanpark/blob/output/github-contribution-grid-snake.gif)
 </details>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{suhanpark}"/>
+</a>
