@@ -90,6 +90,6 @@
    ![snake gif](https://github.com/suhanpark/suhanpark/blob/output/github-contribution-grid-snake.gif)
 </details>
 
-<a href="https://github.com/devxb/gitanimals">
+<p><a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{suhanpark}"/>
-</a>
+</a></p>
