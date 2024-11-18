@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/suhanpark)
 
-- 🏠 My website is [suhanpark.com](www.suhanpark.com)
+- 🏠 My website is [suhanpark.com](https://suhanpark.github.io)
 
 - 💬 Ask me about **anything that I can answer**
 
