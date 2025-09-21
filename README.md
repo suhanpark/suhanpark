@@ -8,7 +8,7 @@
 
 - 🔭 Computer Science @ Michigan State University 2023
 
-- 🌱 I’m currently learning **CV/ML/DL** 🤖
+- 🌱 Specialize in **CV & ML** 🤖
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/suhanpark)
 
